@@ -8,10 +8,10 @@
 		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.perlinski</groupId>
-	<artifactId>core-task1</artifactId>
+	<groupId>com.acn</groupId>
+	<artifactId>task-mgr</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>core-task1</name>
+	<name>task-mgr</name>
 	<description>Agentic SDLC Fundamentals Backend</description>
 	<url/>
 	<licenses>
